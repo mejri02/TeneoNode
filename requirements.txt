@@ -1,3 +1,6 @@
-rich==13.3.2
-websocket-client==1.6.2
-requests==2.31.0
+websocket-client
+requests
+rich
+fake-useragent
+PySocks
+
