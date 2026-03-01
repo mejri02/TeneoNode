@@ -1,5 +1,14 @@
 {
-    "access_token": "your_access_token",
-    "ws_url": "wss://secure.ws.teneo.pro/websocket",
-    "version": "v0.2"
+  "accounts": [
+    {
+      "access_token": "YOUR_TOKEN_HERE",
+      "label": "Main Account"
+    },
+    {
+      "access_token": "YOUR_TOKEN_HERE",
+      "label": "Secondary Account"
+    }
+  ],
+  "ws_url": "wss://secure.ws.teneo.pro/websocket",
+  "version": "v0.2"
 }
